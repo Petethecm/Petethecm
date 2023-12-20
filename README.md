@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Petethecm
+- 👀 I’m interested in community building/ management...
+- 💞️ I’m looking to collaborate with who ever to grow or manage communities...
+- 📫 How to reach me PETETHECM on (X)...
+
+<!---
+Petethecm/Petethecm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
